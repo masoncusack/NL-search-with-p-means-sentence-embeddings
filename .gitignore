@@ -1,0 +1,5 @@
+*.xlsx
+*.pickle
+secrets.json
+*.pyc
+data

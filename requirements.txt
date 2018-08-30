@@ -1,0 +1,9 @@
+Flask
+click
+numpy
+requests
+progressbar2
+flask_cors
+azure-storage
+pandas
+xlrd
